@@ -1,5 +1,6 @@
 # Indian Flag GitHub Repository
 
+![1](https://github.com/abdul-1432/India_Flag/assets/124916666/e7ef799f-f9fd-44f0-8390-015281a7351c)
 
 This repository contains resources related to the Indian flag, including images, information, and code examples for displaying or representing the Indian flag in various contexts. Whether you're working on a website, an application, a presentation, or any other project that involves the Indian flag, this repository aims to provide you with the necessary assets and guidance.
 
