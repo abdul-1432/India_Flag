@@ -30,7 +30,7 @@ You can use the resources provided in this repository to display or incorporate 
 
 ## Resources
 
-- [Images](): A collection of Indian flag images in different formats and sizes.
+- [Images](https://github.com/abdul-1432/India_Flag/blob/main/India%20Flag/Preview/1.png): A collection of Indian flag images in different formats and sizes.
 - [Code Examples](https://github.com/abdul-1432/India_Flag/blob/main/India%20Flag/home.html): Code snippets for displaying the Indian flag using various technologies.
 - [Guidelines](#): Recommendations for using the Indian flag respectfully.
 
@@ -52,5 +52,3 @@ Please ensure that your contributions align with the goals of this repository an
 The content of this repository is available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to use, modify, and distribute the resources in this repository for any purpose, provided you give appropriate credit to the original source.
 
 ---
-
-*Note: This repository is intended to provide resources and information related to the Indian flag. It is not affiliated with any official government body and should be used in a respectful and responsible manner.*
