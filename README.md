@@ -30,9 +30,9 @@ You can use the resources provided in this repository to display or incorporate 
 
 ## Resources
 
-- [Images](/images): A collection of Indian flag images in different formats and sizes.
-- [Code Examples](/code-examples): Code snippets for displaying the Indian flag using various technologies.
-- [Guidelines](/guidelines): Recommendations for using the Indian flag respectfully.
+- [Images](): A collection of Indian flag images in different formats and sizes.
+- [Code Examples](https://github.com/abdul-1432/India_Flag/blob/main/India%20Flag/home.html): Code snippets for displaying the Indian flag using various technologies.
+- [Guidelines](#): Recommendations for using the Indian flag respectfully.
 
 ## Contributing
 
