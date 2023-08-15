@@ -26,7 +26,7 @@ You can use the resources provided in this repository to display or incorporate 
 
 - **Code Examples**: Explore code snippets and examples for rendering the Indian flag using HTML, CSS, and other programming languages. These examples can serve as a starting point for your own implementations.
 
-- **Guidelines**: Discover guidelines and best practices for respectfully and accurately representing the Indian flag in your projects. It's important to adhere to these guidelines to show proper respect to the national flag.
+- **Guidelines**: Discover guidelines and best practices for respectfully and accurately representing the Indian flag in your projects. It's important to adhere to these guidelines to show proper respect for the national flag.
 
 ## Resources
 
